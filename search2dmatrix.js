@@ -3,7 +3,7 @@
 //As it's a matrix, the mid will have to be manipulated to get the row and column.
 
 
-//Binary Search 
+
 //Time Complexity: O(n)
 //Space Complexity: O(1)
 

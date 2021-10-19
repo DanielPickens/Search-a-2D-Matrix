@@ -1,5 +1,5 @@
 # Search-a-2D-Matrix
-My JavaScript solution using Binary Search - O(n) , O(1)
+
 
 
 "Write an efficient algorithm that searches for a value in an m x n matrix. This matrix has the following properties:

@@ -8,7 +8,7 @@
 
 //Recursive solution
 
-//Time Complexity: O(n)
+//Time Complexity: O(logn)
 //Space Complexity: O(1)
 
 var searchMatrix = (matrix, target) => {

@@ -1,6 +1,6 @@
-// Easiest option is to find the row using binary search.
+// An efficient option is to find the row using binary search.
 //Consider the matrix as an array and keep the start and end pointers at the first element and last element respectively.
-//As it's a matrix, the mid will have to be manipulated to get the row and column.
+
 
 
 

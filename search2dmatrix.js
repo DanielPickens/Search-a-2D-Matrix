@@ -32,7 +32,7 @@ var searchMatrix = (matrix, target) => {
 
         return false;
     }
-// Binary search                              O(n)
+// Binary search                             
     let binarySearch = ( matrix, target) => {
         let l = 0, r = matrix.length;
 

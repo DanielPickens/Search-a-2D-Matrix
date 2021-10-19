@@ -1,8 +1,12 @@
-// An efficient option is to find the row using binary search.
+// An efficient option is to find the row using binary search to where its first element > target
 //Consider the matrix as an array and keep the start and end pointers at the first element and last element respectively.
+//We will check ith row's first value against target
+//if it is equal return true, if it's more than target we know that 
+//element is in the previous row, so then we need to perform a binary search on that row 
 
 
 
+//Recursive solution
 
 //Time Complexity: O(n)
 //Space Complexity: O(1)

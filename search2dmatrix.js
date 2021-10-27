@@ -48,7 +48,7 @@ var searchMatrix = (matrix, target) => {
                 l = mid + 1;
         }
         return false;
-    }
+    };
     
     
   /*

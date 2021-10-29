@@ -1,4 +1,4 @@
-// An efficient option is to find the row using binary search to where its first element > target
+//An efficient option is to find the row using binary search to where its first element > target
 //Consider the matrix as an array and keep the start and end pointers at the first element and last element respectively.
 //We will check ith row's first value against target
 //if it is equal return true, if it's more than target we know that 
